@@ -46,12 +46,12 @@ The platform helps beginners understand stock market trading through real-time s
 - Responsive UI
 
 ## Install Dependencies
-## Open terminal:
+Open terminal:
 1. npm install
 2. npm run install-client
-## Run Backend
+Run Backend
 1. cd server
 2. npm run start
-## Run Frontend
+Run Frontend
 1. cd client
 2. npm start
