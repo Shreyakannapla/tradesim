@@ -1,0 +1,71 @@
+.background {
+
+  min-height: 100vh;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  background: #032266;
+}
+
+/* CARD */
+
+.paper {
+
+  width: 500px;
+
+  padding: 50px 40px !important;
+
+  border-radius: 24px !important;
+
+  background: #0f172a !important;
+
+  box-shadow:
+    0 10px 40px rgba(0,0,0,0.35);
+
+  color: white !important;
+}
+
+/* FORM */
+
+.form {
+
+  width: 100%;
+
+  margin-top: 25px;
+}
+
+/* BUTTON */
+
+.submit {
+
+  margin-top: 30px !important;
+
+  margin-bottom: 24px !important;
+
+  width: 100%;
+
+  padding: 15px !important;
+
+  border-radius: 14px !important;
+
+  background: #032266 !important;
+
+  color: white !important;
+
+  font-size: 1rem !important;
+
+  font-weight: 700 !important;
+
+  transition: 0.3s ease !important;
+}
+
+.submit:hover {
+
+  background: #032266 !important;
+
+  transform: translateY(-2px);
+}
