@@ -16,23 +16,23 @@ The platform helps beginners understand stock market trading through real-time s
 
 ## Technologies Used
 
-### Frontend
+1. Frontend
 - React.js
 - Material UI
 - CSS Modules
 
-### Backend
+2. Backend
 - Node.js
 - Express.js
 
-### Database
+3. Database
 - MongoDB
 
-### APIs
+4. APIs
 - Finnhub API
 - Tiingo API
 
-### Tools
+5. Tools
 - VS Code
 - Git & GitHub
 
@@ -49,9 +49,11 @@ The platform helps beginners understand stock market trading through real-time s
 Open terminal:
 1. npm install
 2. npm run install-client
+   
 Run Backend
 1. cd server
 2. npm run start
+
 Run Frontend
 1. cd client
 2. npm start
